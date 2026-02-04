@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: otel-span-log
+  labels:
+    app: otel-span-log
+spec:
+  restartPolicy: Never
+  containers:
+    - name: otel-span-log
+      image: otel-span-log:latest
+      imagePullPolicy: Never
+      env:
+        - name: OTEL_EXPORTER_OTLP_ENDPOINT
+          value: "otel-collector:4317"
+
