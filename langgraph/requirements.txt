@@ -1,0 +1,9 @@
+langgraph
+opentelemetry-sdk
+opentelemetry-exporter-otlp-proto-http
+opentelemetry-semantic-conventions>=0.59b0
+opentelemetry-instrumentation-langchain
+maxim-py
+deepeval
+# Optional: for local LLM (LM Studio, Ollama) via OpenAI-compatible API
+openai>=1.0.0

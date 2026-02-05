@@ -42,7 +42,7 @@ python otel_llm_log.py
 Or use the base URL (script appends `/v1/traces`):
 
 ```bash
-export OTEL_EXPORTER_OTLP_ENDPOINT=http://my-collector:4318
+export OTEL_EXPORTER_OTLP_ENDPOINT=http://localhost:4318
 python otel_llm_log.py
 ```
 

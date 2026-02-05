@@ -1,0 +1,46 @@
+The charge nurse stored the Insulin vials in the medication room on the counter. That location did not meet the required temperature range of 36–46°F.
+The nurse placed the used gauze with blood from the wound dressing in a regular trash bag. That container was not designated for that purpose.
+The physician wrote an order for amoxicillin 500 mg twice daily but entered 250 mg in the system. The medication order was misrecorded.
+The technician handed the pulse oximeter from the previous patient to the next patient in the same bay. The equipment was reused before the sanitization step had been completed.
+The phlebotomist performed a blood draw in room 204. The wristband was not checked before the procedure was performed.
+The nursing aide did not answer the call light in room 312 until 14:47 although it was activated at 14:22. That did not fall within the expected response time.
+After changing a dressing, the staff member removed gloves at the door and then opened it. Gloves were removed before leaving the room after patient contact.
+The nurse collected a urine specimen at 09:15 and placed it in a cup. The specimen was not labeled at the point of collection.
+A staff member in the emergency department opened a record for a patient on the orthopedics unit from a workstation there. That patient record was accessed by someone who was not on the care team.
+The medical assistant left a vial of vaccine on the preparation table in the immunization room for over an hour. That area did not meet storage requirements for that product.
+The nurse placed the used needle from the flu shot in the regular waste bin at the nursing station. Sharps were disposed of in a regular waste container instead of the designated bin.
+The nurse documented the dose of Ibuprofen with a time of 12PM. That did not match the time of administration which we determined was 2PM.
+The technician did not run the sanitization cycle on the portable ultrasound machine before it was needed for the next patient. The sanitization cycle was not run before the equipment was used for the next patient.
+The nurse gave Lisinopril in room 108. The patient was not asked to state their name and date of birth before the medication was given.
+The nursing aide reported the fall on the unit at 03:15 but the rapid response team was not notified until 03:28. The emergency was not escalated to the appropriate team within the expected window.
+The nurse performed the nasal swab for respiratory testing. A mask was not worn during a procedure that required droplet precautions.
+The phlebotomist carried the blood culture set from the room to the lab in a single bag. A specimen was transported without the required secondary container.
+A staff member on the day shift opened the chart of a patient who was assigned to the night shift. A staff member opened a patient record for a patient not under their care.
+The nurse took the vials of Humalog to the bedside for the 07:00 dose and left them on the overbed table. Refrigerated medication was not returned to the refrigerator after use.
+The nursing aide placed the soiled linens from the patient on contact precautions in the same hamper as general laundry. Infectious waste was placed in the general waste stream.
+The nurse drew Heparin from the 10,000 units per mL vial when the order was for 5,000 units per mL. The wrong concentration was drawn for administration.
+The nurse used the blood pressure cuff on one patient and then applied it to another in the same room before cleaning. Equipment was used for the next patient before the sanitization step was completed.
+The physician performed the colonoscopy using a chart that had been pulled for the previous slot. The chart had not been matched to the patient in the room.
+The nursing aide did not acknowledge the call light in room 405 for 22 minutes. The call light was not acknowledged within the expected response time.
+After leaving the isolation room, the nurse removed the gown first and then the gloves. PPE was doffed in an order that did not follow the posted protocol.
+The phlebotomist collected the CBC from the patient in room 206. The specimen container was not verified against the order at the point of collection.
+The nurse opened the patient record from a shared workstation to look up a phone number for a family member. That patient record was viewed outside of a direct care context.
+The nurse updated the refrigerator log for the medication room with the date but left the temperature column blank. The nurse forgot to note the temperature in the medication log.
+The nurse discarded the culture plates from the wound in the regular red bag in the treatment room. Infectious material was discarded in a container that was not labeled for biohazard waste.
+The nurse transcribed the order for metformin as 500 mg when the order was for 1000 mg. The medication order was transcribed with an incorrect dose.
+The radiology technician used the portable X-ray unit in room 101 and the next patient was brought in from room 103. The previous patient's identifiers were still visible when the next patient was brought into the room for the same equipment.
+The phlebotomist performed the blood draw for the patient in bed 2. The patient's identity was not confirmed with two identifiers before the blood draw.
+The nursing aide called the code on the fourth floor at 11:02 but the code team arrived at 11:09. Response to the emergency was delayed beyond the expected timeframe.
+The staff member entered the room of the patient with MRSA to deliver the meal tray. A gown was not worn during contact with a patient on contact precautions.
+The nurse collected the CSF sample at 08:00 and it reached the lab at 10:30. The specimen was left at room temperature longer than the protocol allowed.
+A user from the billing department pulled up the patient's record to check an insurance code. Access to the record occurred outside of the care team for that patient.
+The staff member left the isolation room and used hand sanitizer only after touching the door. Hand hygiene was not performed before leaving the room, contrary to protocol.
+The surgeon began the procedure in OR 3 before the full timeout had been completed. The surgical timeout was omitted before the procedure was started.
+The nurse administered the antibiotic in room 502. The patient's allergy list was not confirmed before the medication was given. The medication was administered in violation of the medication administration policy.
+The nurse gave the pediatric dose of acetaminophen in the pediatric unit. Current weight had not been confirmed in the chart before the dose was given. The dose was given without confirmation of current weight, contrary to policy.
+The nursing aide applied soft wrist restraints to the patient in room 208. The restraints were applied before the order was in the chart. Restraints were applied contrary to policy, before an order was in place.
+The second nurse was at the bedside for the blood transfusion in room 410. The required independent verification of the unit and patient was not performed before the transfusion was started. The required independent verification at the bedside was not performed before the transfusion.
+The nurse prepared the insulin dose for the patient in room 105. The required second nurse verification was omitted before the dose was administered. The required second nurse verification was omitted for a high-alert medication.
+The monitor technician acknowledged the alarm for room 207 at 14:32. Staff did not enter the room until 14:47. The response to the alarm was delayed despite the alarm being acknowledged.
+The nurse performed the wound dressing change in room 303 using a hydrocolloid from the supply cart. The dressing was from a batch that was past the use-by date. A product past its use-by date was used in violation of storage and use policy.
+The nurse who was leaving at 19:00 had received the critical potassium result for the patient in room 601 at 18:45. The critical result was not handed off to the oncoming shift.
